@@ -1,19 +1,23 @@
 # Hey, Hallo und Buongiorno👋 I'm Adam
+And here are a few nuggets of info about me...
 
-<!--
-**acz1992/acz1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+    - Personalised websites for small, local businesses
+    
+- 🌱 I’m currently learning:
+    - Trying to master TypeScript
+    - Deepening my grasp of React and Next.14
 
-Here are some ideas to get you started:
+- 🤔 I’m looking for help with:
+    - Integrating Google Maps with React for an upcoming project
+    
+- 💬 Ask me about:
+    - the best brands of English Breakfast Tea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
     - Born and raised in Britain, Polish second name (and second citizenship), currently setting up a new life in Germany...oh and have visited over 50 countries. 
--->
 
+- 📫 How to reach me:
+    - ✉️ acz1992@hotmail.co.uk
+    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acz1992&theme=default)](https://git.io/streak-stats)
