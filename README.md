@@ -23,8 +23,13 @@
 ![next.js](https://img.shields.io/badge/Next_js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white
+![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
+![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+=
      
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acz1992&theme=default)](https://git.io/streak-stats)
 
