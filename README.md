@@ -43,6 +43,5 @@
 #### Version Control
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
+<hr>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acz1992)](https://git.io/streak-stats)
