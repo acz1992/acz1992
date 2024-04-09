@@ -29,7 +29,7 @@
 #### Backend
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&logoColor=white)
 ![mongoose](https://img.shields.io/badge/mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-339933?style=for-the-badge&logo=postgresql&logoColor=white)
