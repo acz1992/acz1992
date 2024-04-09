@@ -36,7 +36,10 @@
 ![json](https://img.shields.io/badge/json-339933?style=for-the-badge&logo=json&logoColor=white)
 #### Design
 ![figma](https://img.shields.io/badge/figma-339933?style=for-the-badge&logo=figma&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-339933?style=for-the-badge&logo=photoshop&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/adobe_photoshop-339933?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+#### Version Control
+![git](https://img.shields.io/badge/git-339933?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-339933?style=for-the-badge&logo=github&logoColor=white)
 
 ## And here are the tools that I use most...
 <table>
