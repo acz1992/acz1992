@@ -15,6 +15,8 @@
     - ✉️ acz1992@hotmail.co.uk
 ### And here are the technologies I'm most proficient in...
 #### Development
+
+![vscode](https://img.shields.io/badge/vs_code-E34F26?style=for-the-badge&logo=vscode&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
