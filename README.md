@@ -14,7 +14,7 @@
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
 ### And here are the technologies I'm most proficient in...
-#### Frontend
+#### Development
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -24,8 +24,7 @@
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![vite](https://img.shields.io/badge/vite-FF4785?style=for-the-badge&logo=vite&logoColor=white)
-#### Backend
+![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-339933?style=for-the-badge&logo=axios&logoColor=white)
