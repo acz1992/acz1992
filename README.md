@@ -19,7 +19,7 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![next.js](https://img.shields.io/badge/Next_js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
@@ -27,6 +27,7 @@
 ![vite](https://img.shields.io/badge/vite-FF4785?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Backend
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
      
