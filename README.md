@@ -25,19 +25,18 @@
 ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-FF4785?style=for-the-badge&logo=vite&logoColor=white)
-
 #### Backend
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+![express](https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&logoColor=white)
+![axios](https://img.shields.io/badge/axios-339933?style=for-the-badge&logo=axios&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-339933?style=for-the-badge&logo=prisma&logoColor=white)
 ![mongoose](https://img.shields.io/badge/mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-339933?style=for-the-badge&logo=postgresql&logoColor=white)
-![axios](https://img.shields.io/badge/axios-339933?style=for-the-badge&logo=axios&logoColor=white)
 ![json](https://img.shields.io/badge/json-339933?style=for-the-badge&logo=json&logoColor=white)
-
-     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acz1992&theme=default)](https://git.io/streak-stats)
+#### Design
+![figma](https://img.shields.io/badge/figma-339933?style=for-the-badge&logo=figma&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-339933?style=for-the-badge&logo=photoshop&logoColor=white)
 
 ## And here are the tools that I use most...
 <table>
