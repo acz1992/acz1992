@@ -1,4 +1,5 @@
 ## Hey, Hallo und Buongiorno👋 I'm Adam
+![](https://komarev.com/ghpvc/?username=acz1992&color=red)
 ### And here are a few nuggets of info about me...
 - 🔭 I’m currently working on:
     - Personalised websites for small, local businesses
