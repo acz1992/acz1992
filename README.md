@@ -18,11 +18,10 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next&logoColor=white)
 
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-  ![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)]
- ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)]
      
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acz1992&theme=default)](https://git.io/streak-stats)
 
