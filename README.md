@@ -1,5 +1,5 @@
-# Hey, Hallo und Buongiorno👋 I'm Adam
-## And here are a few nuggets of info about me...
+## Hey, Hallo und Buongiorno👋 I'm Adam
+### And here are a few nuggets of info about me...
 - 🔭 I’m currently working on:
     - Personalised websites for small, local businesses
 - 🌱 I’m currently learning:
@@ -13,7 +13,7 @@
     - Born and raised in Britain, Polish second name (and second citizenship), currently setting up a new life in Germany...oh and have visited over 50 countries. 
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
-## And here are the technologies I'm most proficient in...
+### And here are the technologies I'm most proficient in...
 #### Frontend
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
