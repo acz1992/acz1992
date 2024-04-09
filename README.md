@@ -13,7 +13,6 @@
     - Born and raised in Britain, Polish second name (and second citizenship), currently setting up a new life in Germany...oh and have visited over 50 countries. 
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
-
 ## And here are the technologies I'm most proficient in...
 ### Front End
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
