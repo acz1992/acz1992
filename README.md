@@ -1,6 +1,5 @@
 ## Hey, Hallo und Buongiorno👋 I'm Adam
 ![](https://komarev.com/ghpvc/?username=acz1992&color=blue&style=plastic)<br>
-[Check out my Portfolio](https://adammichajlowicz.vercel.app/)
 ### And here are a few nuggets of info about me...
 - 🔭 I’m currently working on:
     - Personalised websites for small, local businesses
@@ -16,6 +15,7 @@
     - Born and raised in Britain, Polish second name (and second citizenship), currently setting up a new life in Germany. And have visited over 50 countries. 
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
+    - [Check out my Portfolio](https://adammichajlowicz.vercel.app/)
 ### And here are the technologies I'm most proficient in...
 #### Development
 
