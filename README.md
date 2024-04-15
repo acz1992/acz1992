@@ -5,10 +5,10 @@
     - Personalised websites for small, local businesses
     - A Stoic-style Journaling App
 - 🌱 I’m currently learning:
-    - Trying to master TypeScript
-    - Deepening my grasp of React and Next.14
+    - Taking my TypeScript skills to the next level
+    - Refining my React and Next.14 abilities
 - 🤔 I’m looking for help with:
-    - Smoothly integrating Google Maps with React for an future project
+    - Smoothly integrating Google Maps with React for a future project
 - 💬 Ask me about:
     - The best brands of English Breakfast Tea
 - ⚡ Fun fact: 
