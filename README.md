@@ -6,9 +6,9 @@
     - A Stoic-style Journaling App
 - 🌱 I’m currently learning:
     - Taking my TypeScript skills to the next level
-    - Refining my React and Next.14 abilities
+    - Refining my React and Next.js 14 abilities
 - 🤔 I’m looking for help with:
-    - Smoothly integrating Google Maps with React for a future project
+    - Smoothly integrating Google Maps with React for a future web-based project
 - 💬 Ask me about:
     - The best brands of English Breakfast Tea
 - ⚡ Fun fact: 
