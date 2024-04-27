@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=acz1992&color=blue&style=plastic)
 ### And here are a few nuggets of info about me...
 - 🔭 I’m currently working on:
-    - Personalised websites for small, local businesses
+    - Bespoke websites for small, local businesses
     - A Stoic-style Journaling App
 - 🌱 I’m currently learning:
     - Taking my TypeScript skills to the next level
