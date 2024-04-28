@@ -16,7 +16,7 @@
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
     - 🛜 [Check out my Portfolio](https://adammichajlowicz.vercel.app/)
-### And here are the technologies I'm most proficient in...
+### Here are the technologies I use the most...
 #### Development
 
 ![visualstudiocode](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
