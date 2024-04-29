@@ -12,7 +12,7 @@
 - 💬 Ask me about:
     - The best brands of English Breakfast Tea
 - ⚡ Fun fact: 
-    - Born and raised in Britain, Polish second name (and second citizenship), currently setting up a new life in Germany. And have visited over 50 countries. 
+    - Born and raised in Britain, Polish second name (along with newly acquired second citizenship), currently setting up a new life in Germany. And have visited over 50 countries. 
 - 📫 How to reach me:
     - ✉️ acz1992@hotmail.co.uk
     - 🛜 [Check out my Portfolio](https://adammichajlowicz.vercel.app/)
