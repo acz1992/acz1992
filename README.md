@@ -28,8 +28,8 @@
 ![next.js](https://img.shields.io/badge/Next_js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![sanity](https://img.shields.io/badge/sanity-06B6D4?style=for-the-badge&logo=sanity&logoColor=white)
-![wordpress](https://img.shields.io/badge/wordpress-06B6D4?style=for-the-badge&logo=wordpress&logoColor=white)
+![sanity](https://img.shields.io/badge/sanity-d71b15?style=for-the-badge&logo=sanity&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-007496?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
